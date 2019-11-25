@@ -3,8 +3,11 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe"
 
+<<<<<<< HEAD
 move(board, 4, "X")
 move(board, 0, "O")
+=======
+>>>>>>> 8f56cb061e6e0edf18eff02176b281dd7f994534
 move(board, 1, "X")
 
 
